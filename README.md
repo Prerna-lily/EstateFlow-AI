@@ -1,23 +1,23 @@
-# 🏠 EstateFlow AI  
+#  EstateFlow AI  
 ### Real Estate AI – Property Message Management System  
 
 A smart property management system for real estate brokers that uses AI to extract structured property details from unstructured WhatsApp messages.
 
 ---
 
-## 🌟 Features
+##  Features
 
-### 🚀 Core Features (MVP)
+###  Core Features (MVP)
 
-- 🤖 **AI Property Extraction** – Automatically extract property details from WhatsApp messages  
-- 🔍 **Smart Search & Filters** – Find properties quickly with advanced filtering  
-- 📱 **Contact Detection** – Extract phone numbers automatically  
-- 💰 **Price Extraction** – Detect rent/sale prices in Indian currency formats  
-- 📍 **Location Detection** – Recognize Mumbai areas (Western, Central, Harbour lines)  
-- 🏠 **Property Classification** – Auto-categorize Residential, Commercial, and Land  
-- ⚡ **Duplicate Detection** – Prevent duplicate entries  
-- ⭐ **Favorites & Tags** – Mark and organize important properties  
-- 📊 **Dashboard** – View statistics and insights  
+-  **AI Property Extraction** – Automatically extract property details from WhatsApp messages  
+-  **Smart Search & Filters** – Find properties quickly with advanced filtering  
+-  **Contact Detection** – Extract phone numbers automatically  
+-  **Price Extraction** – Detect rent/sale prices in Indian currency formats  
+-  **Location Detection** – Recognize Mumbai areas (Western, Central, Harbour lines)  
+-  **Property Classification** – Auto-categorize Residential, Commercial, and Land  
+-  **Duplicate Detection** – Prevent duplicate entries  
+-  **Favorites & Tags** – Mark and organize important properties  
+-  **Dashboard** – View statistics and insights  
 
 ---
 
@@ -37,7 +37,7 @@ The AI extraction engine can detect:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### 🔹 Backend (Python – FastAPI)
 
